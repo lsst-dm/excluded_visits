@@ -1,0 +1,22 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: exposure, datatype: uint64}
+# - {name: comment, datatype: string}
+# delimiter: ','
+# schema: astropy-2.0
+exposure,comment
+2024110600163, slew during exposure
+2024110800318, slew during exposure
+2024111400039, rotator issue
+2024111500225, rotator issue
+2024111500226, rotator issue
+2024111500239, rotator issue
+2024111500240, rotator issue
+2024111500242, rotator issue
+2024111500288, rotator issue
+2024111500289, rotator issue
+2024111800077, slew during exposure
+2024111800078, slew during exposure
+2024112300230, slew during exposure
+2024112400094, slew during exposure
