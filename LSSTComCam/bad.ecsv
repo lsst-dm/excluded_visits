@@ -7,6 +7,11 @@
 # schema: astropy-2.0
 exposure,comment
 2024110600163, slew during exposure
+2024110800050, out of focus
+2024110800051, out of focus
+2024110800052, out of focus
+2024110800053, out of focus
+2024110800066, laser was on?
 2024110800318, slew during exposure
 2024111400039, rotator issue
 2024111500225, rotator issue
@@ -21,3 +26,4 @@ exposure,comment
 2024112300230, slew during exposure
 2024112400094, slew during exposure
 2024112400225, slew during exposure
+2024112600327, slew during exposure
