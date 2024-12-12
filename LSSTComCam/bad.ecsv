@@ -13,13 +13,16 @@ exposure,comment
 2024110500241, donuts
 2024110600163, slew during exposure
 2024110600178, tracking stopped
+2024110600179, acq mislabeled as science
 2024110800050, out of focus
 2024110800051, out of focus
 2024110800052, out of focus
 2024110800053, out of focus
 2024110800066, laser was on?
 2024110800318, slew during exposure
+2024111000117, out of focus
 2024111400039, rotator issue
+2024111500213, acq mislabeled as science
 2024111500225, rotator issue
 2024111500226, rotator issue
 2024111500239, rotator issue
