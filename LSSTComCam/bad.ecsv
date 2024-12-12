@@ -6,7 +6,13 @@
 # delimiter: ','
 # schema: astropy-2.0
 exposure,comment
+2024110500234, donuts
+2024110500236, donuts
+2024110500237, donuts
+2024110500240, donuts
+2024110500241, donuts
 2024110600163, slew during exposure
+2024110600178, tracking stopped
 2024110800050, out of focus
 2024110800051, out of focus
 2024110800052, out of focus
