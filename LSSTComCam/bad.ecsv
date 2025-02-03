@@ -19,8 +19,23 @@ exposure,comment
 2024110800052, i out of focus
 2024110800053, r out of focus
 2024110800066, r laser was on?
+2024110800293, r out of focus (lopsided)
+2024110800294, r out of focus (lopsided)
+2024110800300, r out of focus (lopsided)
+2024110800317, r out of focus (lopsided)
 2024110800318, r slew during exposure
-2024111000113, i out of focus
+2024110900196, u out of focus (lopsided)
+2024110900201, u out of focus (lopsided)
+2024110900206, u out of focus (lopsided)
+2024110900207, u out of focus (lopsided)
+2024110900208, u out of focus (lopsided)
+2024110900213, u out of focus (lopsided)
+2024110900216, u out of focus (lopsided)
+2024110900220, u out of focus (lopsided)
+2024110900221, u out of focus (lopsided)
+2024110900222, u out of focus (lopsided)
+2024111000112, i out of focus (lopsided)
+2024111000113, i out of focus (lopsided)
 2024111000115, i out of focus
 2024111000116, r out of focus
 2024111000117, r out of focus
@@ -34,16 +49,63 @@ exposure,comment
 2024111500239, i rotator issue
 2024111500240, z rotator issue
 2024111500242, i rotator issue
+2024111500286, r out of focus (lopsided)
 2024111500288, r rotator issue
 2024111500289, z rotator issue
+2024111500290, z out of focus (diamond ring)
+2024111500291, z out of focus (diamond ring)
+2024111500292, z out of focus (diamond ring)
+2024111500293, z out of focus (diamond ring)
+2024111500294, z out of focus (diamond ring)
+2024111500295, z out of focus (diamond ring)
+2024111500296, z out of focus (diamond ring)
 2024111600099, r out of focus
 2024111600100, i out of focus
+2024111700148, i out of focus (trefoil)
+2024111700149, i out of focus (trefoil)
+2024111700151, i out of focus (trefoil)
+2024111700152, i out of focus (trefoil)
+2024111700153, i out of focus (trefoil)
+2024111700156, r out of focus (trefoil)
 2024111800077, r slew during exposure
 2024111800078, r slew during exposure
+2024112000304, r out of focus (trefoil)
+2024112000305, r out of focus (trefoil)
+2024112000306, r out of focus (trefoil)
+2024112000307, r out of focus (trefoil)
+2024112000308, r out of focus (trefoil)
+2024112000309, i out of focus (trefoil)
+2024112000310, i out of focus (trefoil)
+2024112000311, i out of focus (trefoil)
+2024112000312, i out of focus (trefoil)
+2024112000313, i out of focus (trefoil)
+2024112000314, y out of focus (trefoil)
+2024112300217, r out of focus (lopsided)
 2024112300230, i slew during exposure
+2024112300233, i out of focus (lopsided)
 2024112400094, r slew during exposure
 2024112400225, r slew during exposure
 2024112600327, i slew during exposure
+2024112700102, r out of focus (lopsided)
+2024112700103, r out of focus (lopsided)
+2024112700104, r out of focus (lopsided)
+2024112700105, r out of focus (lopsided)
+2024112700106, r out of focus (lopsided)
+2024112700107, r out of focus (lopsided)
+2024112700108, r out of focus (lopsided)
+2024112700109, r out of focus (lopsided)
+2024112700110, r out of focus (lopsided)
+2024112700111, r out of focus (lopsided)
+2024112700112, r out of focus (lopsided)
+2024112700113, r out of focus (lopsided)
+2024112700114, r out of focus (trefoil)
+2024112700115, r out of focus (lopsided)
+2024112900228, i out of focus (lopsided)
+2024112900287, r out of focus (lopsided)
+2024112900290, r out of focus (lopsided)
+2024120100441, r out of focus (lopsided)
+2024120100442, r out of focus (lopsided)
+2024120100466, r out of focus (trefoil)
 2024120500039, i tracking stopped
 2024120500128, i tracking stopped
 2024120600025, r tracking stopped
@@ -82,6 +144,13 @@ exposure,comment
 2024120700129, z taken without AOS (characterizeImage [calibrate] failed for 3 4 6 7 [0 5 8])
 2024120700340, z TMA faulted
 2024120800388, z M1M3 faulted + donuts
+2024120800389, z out of focus (lopsided)
+2024120800390, z out of focus (trefoil)
+2024120800391, z out of focus (trefoil)
+2024120800392, z out of focus (lopsided)
+2024120800393, z out of focus (lopsided)
+2024120800394, z out of focus (trefoil)
+2024120800395, z out of focus (trefoil)
 2024120800396, z M1M3 faulted + donuts
 2024120900418, r rotator issue
 2024120900443, r donuts
