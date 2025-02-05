@@ -6,90 +6,160 @@
 # delimiter: ','
 # schema: astropy-2.0
 exposure,comment
-2024110500234, donuts
-2024110500236, donuts
-2024110500237, donuts
-2024110500240, donuts
-2024110500241, donuts
-2024110600163, slew during exposure
-2024110600178, tracking stopped
-2024110600179, acq mislabeled as science
-2024110800050, out of focus
-2024110800051, out of focus
-2024110800052, out of focus
-2024110800053, out of focus
-2024110800066, laser was on?
-2024110800318, slew during exposure
-2024111000115, out of focus
-2024111000116, out of focus
-2024111000117, out of focus
-2024111000118, out of focus
-2024111000119, out of focus
-2024111000120, out of focus
-2024111400039, rotator issue
-2024111500213, acq mislabeled as science
-2024111500225, rotator issue
-2024111500226, rotator issue
-2024111500239, rotator issue
-2024111500240, rotator issue
-2024111500242, rotator issue
-2024111500288, rotator issue
-2024111500289, rotator issue
-2024111600099, out of focus
-2024111600100, out of focus
-2024111800077, slew during exposure
-2024111800078, slew during exposure
-2024112300230, slew during exposure
-2024112400094, slew during exposure
-2024112400225, slew during exposure
-2024112600327, slew during exposure
-2024120500039, tracking stopped
-2024120500128, tracking stopped
-2024120600025, tracking stopped
-2024120700091, taken without AOS (characterizeImage [calibrate] failed for 0 4 5 7 [1 2])
-2024120700092, taken without AOS (characterizeImage failed for 0 1 2 3 4 6 6 7)
-2024120700093, taken without AOS (characterizeImage [calibrate] failed for 6 [7])
-2024120700094, taken without AOS (characterizeImage failed for all)
-2024120700095, taken without AOS
-2024120700096, taken without AOS
-2024120700097, donuts
-2024120700098, donuts
-2024120700099, taken without AOS
-2024120700100, M1M3 faulted
-2024120700101, taken without AOS (characterizeImage [calibrate] failed for 0 1 3 4 5 6 7 8 [2])
-2024120700102, taken without AOS (characterizeImage failed for 2 4 5 6 7 8)
-2024120700103, taken without AOS (characterizeImage failed for all)
-2024120700104, taken without AOS
-2024120700105, taken without AOS (characterizeImage [calibrate] failed for 5 7 8 [3 4 6])
-2024120700106, taken without AOS
-2024120700107, taken without AOS (characterizeImage[calibrate] failed for 0 1 2 3 4 5 8 [6])
-2024120700108, taken without AOS (characterizeImage failed for 0 2 3 4 5 6 7 8)
-2024120700109, taken without AOS (characterizeImage [calibrate] failed for 6 7 [3 5 8])
-2024120700110, taken without AOS (characterizeImage [calibrate] failed for 5 6 [3 4 7])
-2024120700111, taken without AOS (characterizeImage [calibrate] failed for 0 2 4 6 [8])
-2024120700112, taken without AOS (characterizeImage [calibrate] failed for 0 1 2 3 4 5 6 7 [8])
-2024120700113, taken without AOS (characterizeImage failed for 3 4 5 6 7 8)
-2024120700114, taken without AOS (characterizeImage [calibrate] failed for 3 5 6 7 [2 4])
-2024120700115, taken without AOS (characterizeImage [calibrate] failed for 3 4 6 7 8 [1])
-2024120700116, taken without AOS (characterizeImage failed for all)
-2024120700117, taken without AOS (characterizeImage [calibrate] failed for 3 4 [0 1 2 5 8])
-2024120700118, taken without AOS (characterizeImage [calibrate] failed for 5 6 8 [0 3 4 7])
-2024120700119, taken without AOS (characterizeImage failed for 0 1 2 4 6 7)
-2024120700126, taken without AOS
-2024120700127, taken without AOS (characterizeImage [calibrate] failed for 6 [3 4 7])
-2024120700128, taken without AOS (characterizeImage [calibrate] failed for 6 [3 7])
-2024120700129, taken without AOS (characterizeImage [calibrate] failed for 3 4 6 7 [0 5 8])
-2024120700340, TMA faulted
-2024120800388, M1M3 faulted + donuts
-2024120800396, M1M3 faulted + donuts
-2024120900418, rotator issue
-2024120900443, donuts
-2024120900444, donuts
-2024120900445, donuts
-2024120900446, donuts
-2024120900447, donuts
-2024120900448, donuts
-2024120900449, donuts
-2024120900450, donuts
-2024120900451, donuts + slew during exposure
-2024121000453, tracking stopped
+2024110500234, i donuts
+2024110500236, i donuts
+2024110500237, i donuts
+2024110500240, i donuts
+2024110500241, i donuts
+2024110600163, r slew during exposure
+2024110600178, r tracking stopped
+2024110600179, r acq mislabeled as science
+2024110800050, r out of focus
+2024110800051, g out of focus
+2024110800052, i out of focus
+2024110800053, r out of focus
+2024110800066, r laser was on?
+2024110800293, r out of focus (lopsided)
+2024110800294, r out of focus (lopsided)
+2024110800300, r out of focus (lopsided)
+2024110800317, r out of focus (lopsided)
+2024110800318, r slew during exposure
+2024110900196, u out of focus (lopsided)
+2024110900201, u out of focus (lopsided)
+2024110900206, u out of focus (lopsided)
+2024110900207, u out of focus (lopsided)
+2024110900208, u out of focus (lopsided)
+2024110900213, u out of focus (lopsided)
+2024110900216, u out of focus (lopsided)
+2024110900220, u out of focus (lopsided)
+2024110900221, u out of focus (lopsided)
+2024110900222, u out of focus (lopsided)
+2024111000112, i out of focus (lopsided)
+2024111000113, i out of focus (lopsided)
+2024111000115, i out of focus
+2024111000116, r out of focus
+2024111000117, r out of focus
+2024111000118, i out of focus
+2024111000119, i out of focus
+2024111000120, r out of focus
+2024111400039, i rotator issue
+2024111500213, r acq mislabeled as science
+2024111500225, i rotator issue
+2024111500226, z rotator issue
+2024111500239, i rotator issue
+2024111500240, z rotator issue
+2024111500242, i rotator issue
+2024111500286, r out of focus (lopsided)
+2024111500288, r rotator issue
+2024111500289, z rotator issue
+2024111500290, z out of focus (diamond ring)
+2024111500291, z out of focus (diamond ring)
+2024111500292, z out of focus (diamond ring)
+2024111500293, z out of focus (diamond ring)
+2024111500294, z out of focus (diamond ring)
+2024111500295, z out of focus (diamond ring)
+2024111500296, z out of focus (diamond ring)
+2024111600099, r out of focus
+2024111600100, i out of focus
+2024111700148, i out of focus (trefoil)
+2024111700149, i out of focus (trefoil)
+2024111700151, i out of focus (trefoil)
+2024111700152, i out of focus (trefoil)
+2024111700153, i out of focus (trefoil)
+2024111700156, r out of focus (trefoil)
+2024111800077, r slew during exposure
+2024111800078, r slew during exposure
+2024112000304, r out of focus (trefoil)
+2024112000305, r out of focus (trefoil)
+2024112000306, r out of focus (trefoil)
+2024112000307, r out of focus (trefoil)
+2024112000308, r out of focus (trefoil)
+2024112000309, i out of focus (trefoil)
+2024112000310, i out of focus (trefoil)
+2024112000311, i out of focus (trefoil)
+2024112000312, i out of focus (trefoil)
+2024112000313, i out of focus (trefoil)
+2024112000314, y out of focus (trefoil)
+2024112300217, r out of focus (lopsided)
+2024112300230, i slew during exposure
+2024112300233, i out of focus (lopsided)
+2024112400094, r slew during exposure
+2024112400225, r slew during exposure
+2024112600327, i slew during exposure
+2024112700102, r out of focus (lopsided)
+2024112700103, r out of focus (lopsided)
+2024112700104, r out of focus (lopsided)
+2024112700105, r out of focus (lopsided)
+2024112700106, r out of focus (lopsided)
+2024112700107, r out of focus (lopsided)
+2024112700108, r out of focus (lopsided)
+2024112700109, r out of focus (lopsided)
+2024112700110, r out of focus (lopsided)
+2024112700111, r out of focus (lopsided)
+2024112700112, r out of focus (lopsided)
+2024112700113, r out of focus (lopsided)
+2024112700114, r out of focus (trefoil)
+2024112700115, r out of focus (lopsided)
+2024112900228, i out of focus (lopsided)
+2024112900287, r out of focus (lopsided)
+2024112900290, r out of focus (lopsided)
+2024120100441, r out of focus (lopsided)
+2024120100442, r out of focus (lopsided)
+2024120100466, r out of focus (trefoil)
+2024120500039, i tracking stopped
+2024120500128, i tracking stopped
+2024120600025, r tracking stopped
+2024120700091, z taken without AOS (characterizeImage [calibrate] failed for 0 4 5 7 [1 2])
+2024120700092, z taken without AOS (characterizeImage failed for 0 1 2 3 4 6 6 7)
+2024120700093, z taken without AOS (characterizeImage [calibrate] failed for 6 [7])
+2024120700094, z taken without AOS (characterizeImage failed for all)
+2024120700095, z taken without AOS
+2024120700096, z taken without AOS
+2024120700097, z donuts
+2024120700098, z donuts
+2024120700099, z taken without AOS
+2024120700100, z M1M3 faulted
+2024120700101, z taken without AOS (characterizeImage [calibrate] failed for 0 1 3 4 5 6 7 8 [2])
+2024120700102, z taken without AOS (characterizeImage failed for 2 4 5 6 7 8)
+2024120700103, z taken without AOS (characterizeImage failed for all)
+2024120700104, z taken without AOS
+2024120700105, z taken without AOS (characterizeImage [calibrate] failed for 5 7 8 [3 4 6])
+2024120700106, z taken without AOS
+2024120700107, z taken without AOS (characterizeImage[calibrate] failed for 0 1 2 3 4 5 8 [6])
+2024120700108, z taken without AOS (characterizeImage failed for 0 2 3 4 5 6 7 8)
+2024120700109, z taken without AOS (characterizeImage [calibrate] failed for 6 7 [3 5 8])
+2024120700110, z taken without AOS (characterizeImage [calibrate] failed for 5 6 [3 4 7])
+2024120700111, z taken without AOS (characterizeImage [calibrate] failed for 0 2 4 6 [8])
+2024120700112, z taken without AOS (characterizeImage [calibrate] failed for 0 1 2 3 4 5 6 7 [8])
+2024120700113, z taken without AOS (characterizeImage failed for 3 4 5 6 7 8)
+2024120700114, z taken without AOS (characterizeImage [calibrate] failed for 3 5 6 7 [2 4])
+2024120700115, z taken without AOS (characterizeImage [calibrate] failed for 3 4 6 7 8 [1])
+2024120700116, z taken without AOS (characterizeImage failed for all)
+2024120700117, z taken without AOS (characterizeImage [calibrate] failed for 3 4 [0 1 2 5 8])
+2024120700118, z taken without AOS (characterizeImage [calibrate] failed for 5 6 8 [0 3 4 7])
+2024120700119, z taken without AOS (characterizeImage failed for 0 1 2 4 6 7)
+2024120700126, z taken without AOS
+2024120700127, z taken without AOS (characterizeImage [calibrate] failed for 6 [3 4 7])
+2024120700128, z taken without AOS (characterizeImage [calibrate] failed for 6 [3 7])
+2024120700129, z taken without AOS (characterizeImage [calibrate] failed for 3 4 6 7 [0 5 8])
+2024120700340, z TMA faulted
+2024120800388, z M1M3 faulted + donuts
+2024120800389, z out of focus (lopsided)
+2024120800390, z out of focus (trefoil)
+2024120800391, z out of focus (trefoil)
+2024120800392, z out of focus (lopsided)
+2024120800393, z out of focus (lopsided)
+2024120800394, z out of focus (trefoil)
+2024120800395, z out of focus (trefoil)
+2024120800396, z M1M3 faulted + donuts
+2024120900418, r rotator issue
+2024120900443, r donuts
+2024120900444, r donuts
+2024120900445, r donuts
+2024120900446, r donuts
+2024120900447, r donuts
+2024120900448, g donuts
+2024120900449, g donuts
+2024120900450, g donuts
+2024120900451, g donuts + slew during exposure
+2024121000453, r tracking stopped
