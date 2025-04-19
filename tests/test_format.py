@@ -29,7 +29,7 @@ def test_bad_visit_list():
     free-form and is not tested.
     """
 
-    instruments = ["LSSTComCam"]
+    instruments = ["LSSTComCam", "LSSTCam"]
 
     for instrument in instruments:
 
