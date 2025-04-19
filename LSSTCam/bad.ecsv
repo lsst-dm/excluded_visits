@@ -1,0 +1,9 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: exposure, datatype: uint64}
+# - {name: comment, datatype: string}
+# delimiter: ','
+# schema: astropy-2.0
+exposure,comment
+2025041700761, tracking stopped
