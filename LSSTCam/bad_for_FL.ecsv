@@ -1,0 +1,12 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: exposure, datatype: uint64}
+# - {name: detector, datatype: uint64}
+# - {name: comment, datatype: string}
+# delimiter: ','
+# schema: astropy-2.0
+exposure,detector,comment
+2025050100443,149,satellite
+2025050200272,96,satellite
+2025050300429,91,satellite
