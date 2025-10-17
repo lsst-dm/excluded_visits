@@ -223,6 +223,7 @@ exposure,comment
 2025070600397, donuts
 2025070600398, donuts
 2025070600399, donuts
+2025070600606, donuts
 2025070600607, donuts
 2025070600623, trailed
 2025070700028, donuts
@@ -257,17 +258,28 @@ exposure,comment
 2025071100684, donuts
 2025071100685, donuts
 2025071100686, donuts
-2025071100806, trailed
-2025071100815, trailed
-2025071100853, trailed
-2025071100858, trailed
-2025071200313, trailed
+2025071100806, trailed (hexapod jump)
+2025071100815, trailed (hexapod jump)
+2025071100824, trailed (hexapod jump)
+2025071100853, trailed (hexapod jump)
+2025071100858, trailed (hexapod jump)
+2025071200313, trailed (hexapod jump)
+2025071200408, trailed (hexapod jump)
+2025071200476, trailed (hexapod jump)
 2025071200593, donuts
 2025071200599, donuts
 2025071200600, donuts
 2025071200601, minidonuts
 2025071200602, minidonuts
 2025071200603, minidonuts
+2025071200659, trailed (hexapod jump)
+2025071200734, trailed (hexapod jump)
+2025071200752, trailed (hexapod jump)
+2025071200762, trailed (hexapod jump)
+2025071200764, trailed (hexapod jump)
+2025071200766, trailed (hexapod jump)
+2025071200767, trailed (hexapod jump)
+2025071200768, trailed (hexapod jump)
 2025071300618, donuts
 2025071300690, trailed
 2025071300691, trailed
@@ -312,6 +324,8 @@ exposure,comment
 2025071800444, trailed
 2025071800490, trailed
 2025072000266, trailed
+2025072000350, donuts
+2025072000351, donuts
 2025072000499, donuts
 2025072000500, donuts
 2025072100262, trailed
@@ -326,6 +340,11 @@ exposure,comment
 2025072800094, donuts
 2025072800095, donuts
 2025072800096, donuts
+2025072800109, trailed (hexapod jump)
+2025072800119, trailed (hexapod jump)
+2025072800129, trailed (hexapod jump)
+2025072800139, trailed (hexapod jump)
+2025072800149, trailed (hexapod jump)
 2025072800301, trailed
 2025072800302, donuts
 2025072800303, donuts
