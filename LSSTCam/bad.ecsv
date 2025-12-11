@@ -75,7 +75,10 @@ exposure,comment
 2025060300116, dome vignettting
 2025060300117, dome vignettting
 2025060300118, dome vignettting
+2025060400386, donuts
+2025060400387, trailed (hexapod jump)
 2025060400412, trailed
+2025060400414, trailed (hexapod jump)
 2025060400415, trailed
 2025060400416, trailed
 2025062000216, trailed
@@ -347,6 +350,7 @@ exposure,comment
 2025071800257, trailed
 2025071800269, trailed
 2025071800281, trailed
+2025071800282, donuts
 2025071800292, trailed
 2025071800298, trailed
 2025071800308, trailed
@@ -358,6 +362,7 @@ exposure,comment
 2025071800433, trailed
 2025071800444, trailed
 2025071800490, trailed
+2025071800491, trailed (hexapod jump)
 2025072000266, trailed
 2025072000350, donuts
 2025072000351, donuts
