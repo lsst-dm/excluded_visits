@@ -6,9 +6,15 @@
 # delimiter: ','
 # schema: astropy-2.0
 exposure,comment
+2025041600097, trailed
 2025041700761, tracking stopped
 2025041800615, trailed
+2025042000277, donuts
+2025042000291, trailed
+2025042000308, trailed
+2025042000394, trailed donuts
 2025042000501, trailed
+2025042300158, trailed
 2025042300237, trailed
 2025042500457, messy PSF
 2025042700338, trailed
@@ -597,6 +603,7 @@ exposure,comment
 2026040900074, trailed
 2026040900221, trailed donuts
 2026041000221, donuts
+2026041000222, trailed
 2026041000265, trailed
 2026041000266, donuts
 2026041000267, donuts
